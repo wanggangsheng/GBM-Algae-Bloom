@@ -31,7 +31,7 @@ path <- getwd()
 group.colors2 <- c("yellowgreen","orange")
 group.colors  <- c("cyan","orange","blue","red")
 
-file_par0 <- "Algae_input_new.txt"
+file_par0 <- "Algae_input_data.txt"
 ##------------------------------------------------
 # path_io <- paste0(path, "/", dir_io)
 path_io <- path
